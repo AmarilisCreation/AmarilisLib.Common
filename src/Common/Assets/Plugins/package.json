@@ -1,0 +1,19 @@
+{
+  "name": "com.amariliscreation.common",
+  "version": "1.1.0",
+  "displayName": "AmarilisLib Common",
+  "description": "This Library for using AmarilisLib common in Unity",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "Common",
+    "async/await",
+    "async",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}
